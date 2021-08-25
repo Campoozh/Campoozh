@@ -1,5 +1,5 @@
 
-## Hi visitor! People call me Giru. 👋 
+## Hi visitor! People call me Campoozh. 👋 
 ### Projecting to be a full stack developer.
 
 <div>
