@@ -1,9 +1,11 @@
 
-## Hi visitor! People call me Campoozh. 👋 
-### Projecting to be a full stack developer.
-
+<div align="center">
+  ## Hi visitor! People call me Campoozh. 👋 
+  ### Projecting to be a full stack developer.
+</div>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=campoozh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campoozh&hide=commits&title_color=5E81AC&text_color=D8DEE8&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
 </div>
 
 <div style="display: inline_block"><br>
