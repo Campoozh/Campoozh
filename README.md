@@ -6,7 +6,7 @@
 <ul>
 <li><p>👨‍🎓 Super motivated to learn more every single day and looking for every opportunity that may come to me!</p></li>
 <li><p>🌱 Currently learning and deepening my skills in React. </p></li>
-<li><p>📌 Totally opened for any chance to learn and cooperate. </p></li>
+<li><p>📌 Totally available for any chance to learn and cooperate. </p></li>
 </ul>
 <br>
 
