@@ -41,7 +41,7 @@
 </td></tr></table>  
 <br>
 <div align="center">
-<h1> Where can you find me 😄</h1>
+<h1> Places to find me 😄</h1>
   <br>
    <a href="https://github.com/Campoozh" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
