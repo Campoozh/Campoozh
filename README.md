@@ -1,7 +1,7 @@
 
 <div align="center"> 
   <h1>Hi visitor! People call me Gui. 👋</h1>
-  <h3>🌠 Projecting to be a full stack developer.</h3><br/>
+  <h3>🌠 Full stack web developer</h3><br/>
 </div>
 <ul>
 <li><p>👨‍🎓 Super motivated to learn more every single day and looking for every opportunity that may come to me!</p></li>
