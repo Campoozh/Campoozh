@@ -5,8 +5,8 @@
 </div>
 <ul>
 <li><p>👨‍🎓 Super motivated to learn more every single day and looking for every opportunity that may come to me!</p></li>
-<li><p>🌱 Currently learning and deepening my skills in Laravel. </p></li>
-<li><p>📌 Totally available for any chance to learn and cooperate. </p></li>
+<li><p>🌱 Currently deepening my skills in Laravel. </p></li>
+<li><p>📌 Totally available for any chance to learn, teach and cooperate. </p></li>
 </ul>
 <br>
 
@@ -41,11 +41,5 @@
   <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>  
 </div>
-
-<!--
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=campoozh&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div><br>
--->
 
 
